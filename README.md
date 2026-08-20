@@ -91,13 +91,13 @@ https://adityadhattwalia7188.github.io/Weather-App/
 
 ## 👨‍💻 Author
 
-**Aditya Dhattwalia**
+** NITIN SINGH **
 
 GitHub:
 https://github.com/adityadhattwalia7188
 
 LinkedIn:
-www.linkedin.com/in/adityadhattwalia10042006
+www.linkedin.com/in/NITIN-SINGH
 
 ---
 
